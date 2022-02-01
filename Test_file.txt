@@ -1,0 +1,1 @@
+Lab showing how to manage git in local repository.
